@@ -9,7 +9,7 @@ const AboutPage = () => {
         Our URL Shortener is a simple and fast tool designed to help you transform long, messy URLs into short, clean links that are easy to share and remember.
       </p>
       <p className="text-lg mb-4">
-        Whether you're sharing links on social media, in emails, or anywhere online, our app makes link management easy and efficient. Built using <strong>Next.js</strong>, it supports server-side rendering and fast routing to ensure a smooth user experience.
+        Whether you are sharing links on social media, in emails, or anywhere online, our app makes link management easy and efficient. Built using <strong>Next.js</strong>, it supports server-side rendering and fast routing to ensure a smooth user experience.
       </p>
       <p className="text-lg mb-4">
         We also provide features like custom short links, link tracking (if added), and a minimalistic dashboard to manage your URLs. Your data privacy and performance are our top priorities.
