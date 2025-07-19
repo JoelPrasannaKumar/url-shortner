@@ -14,9 +14,10 @@ const AboutPage = () => {
       <p className="text-lg mb-4">
         We also provide features like custom short links, link tracking (if added), and a minimalistic dashboard to manage your URLs. Your data privacy and performance are our top priorities.
       </p>
-      <p className="text-lg">
-        This project is open-source and built by <strong>Joel Prasanna Kumar</strong>
-      </p>
+     <p className="text-lg">
+  {`This project is open-source and built by `}<strong>Joel Prasanna Kumar</strong>
+</p>
+
     </div>
   );
 };
