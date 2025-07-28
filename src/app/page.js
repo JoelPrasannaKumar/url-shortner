@@ -22,7 +22,7 @@ export default function Home() {
               <Link href="/github"><button className='bg-red-500 my-3  rounded-lg shadow-lg p-3 py-1 font-bold text-white'>GitHub</button></Link>
             </div>
     </div>
-    <div><img src="vector.jpg" alt="" className="mix-blend-darken"/></div>
+    <div><Image src="vector.jpg" alt="" className="mix-blend-darken"/></div>
   </div>
   </>
   );
